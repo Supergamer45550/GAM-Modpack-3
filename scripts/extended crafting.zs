@@ -1,0 +1,14 @@
+recipes.remove(<item:tiab:time_in_a_bottle>);
+
+
+mods.extendedcrafting.TableCrafting.addShaped("2ec3aaa2-605d-499e-a009-85925e342248", 0, <item:tiab:time_in_a_bottle>, [
+	[<item:minecraft:netherite_block>, <item:minecraft:netherite_block>, <item:minecraft:diamond_block>, <item:minecraft:gold_block>, <item:minecraft:gold_block>, <item:minecraft:gold_block>, <item:minecraft:diamond_block>, <item:minecraft:netherite_block>, <item:minecraft:netherite_block>], 
+	[<item:minecraft:netherite_block>, <item:minecraft:netherite_block>, <item:minecraft:diamond_block>, <item:minecraft:gold_block>, <item:minecraft:gold_block>, <item:minecraft:gold_block>, <item:minecraft:diamond_block>, <item:minecraft:netherite_block>, <item:minecraft:netherite_block>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:mekanism:advanced_induction_cell>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>], 
+	[<item:ae2:quartz_vibrant_glass>, <item:ae2:quartz_vibrant_glass>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:minecraft:iron_block>, <item:ae2:quartz_vibrant_glass>, <item:ae2:quartz_vibrant_glass>]
+]);
